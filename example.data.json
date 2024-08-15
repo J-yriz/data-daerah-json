@@ -2,7 +2,7 @@
   "jumlah_provinsi": 34,
   "provinsi": [
     {
-      "id": 1,
+      "id": 0,
       "provinsi": "Provinsi Name",
       "jumlah_kabutapen": 3,
       "kabupaten": [
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "provinsi": "Provinsi Name",
       "jumlah_kabutapen": 3,
       "kabupaten": [
