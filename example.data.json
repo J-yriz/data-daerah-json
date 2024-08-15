@@ -1,0 +1,223 @@
+{
+  "jumlah_provinsi": 34,
+  "provinsi": [
+    {
+      "id": 1,
+      "provinsi": "Provinsi Name",
+      "jumlah_kabutapen": 3,
+      "kabupaten": [
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "provinsi": "Provinsi Name",
+      "jumlah_kabutapen": 3,
+      "kabupaten": [
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kabupaten Name",
+          "jumlah_kecamatan": 2,
+          "kecamatan": [
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            },
+            {
+              "name": "Kecamatan Name",
+              "jumlah_kelurahan": 2,
+              "kelurahan": [
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                },
+                {
+                  "name": "Kelurahan Name",
+                  "postal_zip": "000000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
